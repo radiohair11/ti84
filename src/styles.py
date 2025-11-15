@@ -4,19 +4,19 @@ APP_STYLE = """
             }
             """
 SHIFT_BUTTON_STYLE = """
-                     QPushButton { 
+                    QPushButton { 
                         background-color: blue; 
                         color: white; 
                         font: bold 18px;
-                     }
-                      """
+                    }
+                    """
 ALPHA_BUTTON_STYLE = """
-                     QPushButton { 
+                    QPushButton { 
                         background-color: green; 
                         color: white; 
                         font: bold 18px;
-                     }
-                     """
+                    }
+                    """
 APPS_BUTTON_STYLE = """
                     QPushButton { 
                         background-color: #525252; 
@@ -25,16 +25,16 @@ APPS_BUTTON_STYLE = """
                     }
                     """
 BLACK_BUTTON_STYLE = """
-                     QPushButton { 
+                    QPushButton { 
                         background-color: #525252; 
                         color: white; 
                         font: bold 18px;
-                     }
-                     """
+                    }
+                    """
 WHITE_BUTTON_STYLE = """
-                     QPushButton { 
+                    QPushButton { 
                         background-color: white; 
                         color: black; 
                         font: bold 18px;
-                     }
-                     """
+                    }
+                    """
