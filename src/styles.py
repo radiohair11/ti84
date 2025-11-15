@@ -1,0 +1,5 @@
+SHIFT_BUTTON_STYLE = "QPushButton { background-color: blue; color: white; }"
+ALPHA_BUTTON_STYLE = "QPushButton { background-color: green; color: white; }"
+APPS_BUTTON_STYLE = "QPushButton { background-color: black; color: magenta; }"
+BLACK_BUTTON_STYLE = "QPushButton { background-color: black; color: white; }"
+WHITE_BUTTON_STYLE = "QPushButton { background-color: white; color: black; }"
